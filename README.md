@@ -24,6 +24,11 @@ Career preparation platform for students.
 ### AI-Based Smart Garbage Reporting
 AI-based system for detecting and verifying garbage images.
 
+## Achievements
+
+- 🥈 Secured 2nd rank in a GDG hackathon with CampusConnect.
+- 🎓 Maintained a strong academic performance in Computer Engineering.
+
 ## Connect With Me
 
 - linkedin.com/in/divya-inani-9315a1324  
