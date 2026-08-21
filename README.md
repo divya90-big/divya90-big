@@ -14,6 +14,8 @@ Computer Engineering Student | Python | Java | AI/ML Enthusiast
 
 **Web:** HTML, CSS
 
+**AI/ML:** YOLOv8, OpenCV
+
 **Tools:** VS Code, Notepad++, Jupyter Notebook
 
 ## Projects
@@ -24,6 +26,7 @@ A placement preparation platform that brings resume building,
 aptitude practice, mock exams, coding resources, and interview
 preparation into one centralized platform.
 
+**Tech:** TypeScript, React, Vite  
 [View Repository](https://github.com/divya90-big/CampusConnect)
 
 ### AI-Based Smart Garbage Reporting
