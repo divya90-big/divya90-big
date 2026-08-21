@@ -7,7 +7,6 @@ Computer Engineering Student | Python | Java | AI/ML Enthusiast
 - 🎓 Computer Engineering student
 - 💻 Interested in Python, Java and AI/ML
 - 🧩 Currently improving my DSA and problem-solving skills
-- 🚀 Build projects to strengthen my software development skills
 
 ## Skills
 
@@ -15,7 +14,7 @@ Computer Engineering Student | Python | Java | AI/ML Enthusiast
 
 **Web:** HTML, CSS
 
-**Tools:** Git, GitHub, VS Code
+**Tools:** VS Code, Notepad++, Jupyter Notebook
 
 ## Projects
 
@@ -29,15 +28,16 @@ preparation into one centralized platform.
 
 ### AI-Based Smart Garbage Reporting
 
-AI-based system for detecting and verifying garbage images.
+An AI-based garbage detection and reporting system using YOLOv8
+and OpenCV for image-based garbage detection and verification.
 
 ## Achievements
 
 - 🥈 Secured 2nd rank in a GDG hackathon with CampusConnect.
-- 🎓 Maintained a strong academic performance of **CGPA: 9.5/10.0** in Computer Engineering.
+- 🎓 CGPA: 9.15/10.0 in Computer Engineering
 
 ## Connect With Me
 
-- linkedin.com/in/divya-inani-9315a1324  
-- leetcode.com/u/inanidivya2005
-- inanidivya19@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/divya-inani-9315a1324/)
+- [LeetCode](https://leetcode.com/u/inanidivya2005/)
+- Email: inanidivya19@gmail.com
