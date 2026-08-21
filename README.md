@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Divya Inani
 
-<!--
-**divya90-big/divya90-big** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student | Python | Java | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering student
+- 💻 Interested in Python, Java and AI/ML
+- 🧩 Currently improving my DSA and problem-solving skills
+- 🚀 Build projects to strengthen my software development skills
+
+## Skills
+
+- Python
+- Java
+- HTML/CSS
+- Git/GitHub
+
+## Projects
+
+### CampusConnect
+Career preparation platform for students.
+
+### AI-Based Smart Garbage Reporting
+AI-based system for detecting and verifying garbage images.
+
+## Connect With Me
+
+- linkedin.com/in/divya-inani-9315a1324  
+- leetcode.com/u/inanidivya2005
+- inanidivya19@gmail.com  
