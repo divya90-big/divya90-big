@@ -34,7 +34,7 @@ AI-based system for detecting and verifying garbage images.
 ## Achievements
 
 - 🥈 Secured 2nd rank in a GDG hackathon with CampusConnect.
-- 🎓 Maintained a strong academic performance in Computer Engineering.
+- 🎓 Maintained a strong academic performance of **CGPA: 9.5/10.0** in Computer Engineering.
 
 ## Connect With Me
 
