@@ -11,10 +11,11 @@ Computer Engineering Student | Python | Java | AI/ML Enthusiast
 
 ## Skills
 
-- Python
-- Java
-- HTML/CSS
-- Git/GitHub
+**Languages:** Python, Java
+
+**Web:** HTML, CSS
+
+**Tools:** Git, GitHub, VS Code
 
 ## Projects
 
