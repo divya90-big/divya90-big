@@ -31,8 +31,9 @@ preparation into one centralized platform.
 
 ### AI-Based Smart Garbage Reporting
 
-An AI-based garbage detection and reporting system using YOLOv8
-and OpenCV for image-based garbage detection and verification.
+An AI-based garbage detection and reporting system built with
+Flask, HTML, and CSS. It uses YOLOv8 for garbage detection and
+OpenCV for image processing and handling detection results.
 
 ## Achievements
 
