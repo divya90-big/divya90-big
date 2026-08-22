@@ -6,15 +6,14 @@ Computer Engineering Student | Python | Java | AI/ML Enthusiast
 
 - 🎓 Computer Engineering student
 - 💻 Interested in Python, Java and AI/ML
-- 🧩 Currently improving my DSA and problem-solving skills
+- 🧩 Currently strengthening my DSA and problem-solving skills
+- 🤖 Interested in applying AI/ML to practical software projects
 
 ## Skills
 
 **Languages:** Python, Java
 
 **Web:** HTML, CSS
-
-**AI/ML:** YOLOv8, OpenCV
 
 **Tools:** VS Code, Notepad++, Jupyter Notebook
 
