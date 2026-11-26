@@ -21,18 +21,14 @@ Computer Engineering Student | Python | Java | AI/ML Enthusiast
 
 ### CampusConnect
 
-A placement preparation platform that brings resume building,
-aptitude practice, mock exams, coding resources, and interview
-preparation into one centralized platform.
+A placement preparation platform that brings resume building, aptitude practice, mock exams, coding resources, and interview preparation into one centralized platform.
 
 **Tech:** TypeScript, React, Vite  
 [View Repository](https://github.com/divya90-big/CampusConnect)
 
 ### AI-Based Smart Garbage Reporting
 
-An AI-based garbage detection and reporting system built with
-Flask, HTML, and CSS. It uses YOLOv8 for garbage detection and
-OpenCV for image processing and handling detection results.
+An AI-based garbage detection and reporting system built with Flask, HTML, and CSS. It uses YOLOv8 for garbage detection.
 
 ## Achievements
 
